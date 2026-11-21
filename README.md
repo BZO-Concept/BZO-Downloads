@@ -24,6 +24,7 @@ Shop: [bzo-concept.fr/boutique](https://www.bzo-concept.fr/boutique/)
 | [Mini_OLED](Mini_OLED) | Multifunction mini OLED display datasheet |
 | [Simulator](Simulator) | BZO engine simulator – source code, firmware, enclosure (FreeCAD / STEP) |
 | [Bosch_55pin_Adapter](Bosch_55pin_Adapter) | Bosch 55-pin connector breakout plate (project originating from the rusEFI hardware repository) |
+| [Bosch_88pin_Adapter](Bosch_88pin_Adapter) | Bosch 88-pin connector breakout plate – KiCad project and production files |
 | [Speeduino_v0.4.3d](Speeduino_v0.4.3d) | BOM of the original Speeduino v0.4.3d board |
 
 ## Tools
